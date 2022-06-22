@@ -1,0 +1,37 @@
+.container {
+  width: 80%;
+  margin: 3rem auto;
+}
+.formControl {
+  width: 90%;
+  /* display: flex; */
+}
+
+.control {
+  margin-bottom: 0.5rem;
+  /* display: flex; */
+}
+
+.control label {
+  font-weight: bold;
+  display: block;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  /* text-align: center; */
+}
+
+.control textarea {
+  font: inherit;
+  padding: 1rem;
+  margin: auto;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  border: 1px solid #c1d1d1;
+  /* display: block; */
+  width: 80%;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.input {
+  display: flex;
+}
